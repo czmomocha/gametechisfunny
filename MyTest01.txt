@@ -1,3 +1,2 @@
-hello,esa!
-thx!
-wrong !!!!
+this is My first Git Code!
+welcome to gametechisfunny!
